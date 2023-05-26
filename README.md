@@ -69,7 +69,7 @@ We welcome contributions from the community to enhance the functionality and usa
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
+<!-- 
 ## Contact
 
-If you have any questions or suggestions regarding the MHT CET Mock Test Website, please contact us at [email protected](rushithorat128@gmail.com)
+If you have any questions or suggestions regarding the MHT CET Mock Test Website, please contact us at [email protected](rushithorat128@gmail.com) -->
