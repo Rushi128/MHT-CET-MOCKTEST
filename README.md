@@ -6,11 +6,11 @@ This is a mock test website designed to help 12th-grade students prepare for the
 
 ## Team Members
 
-<!-- This project was developed by a group of 4 students. The team members are: -->
+This project was developed by a group of 4 students. The team members are:
 
-<!-- 1. [Student 1](https://github.com/student1)
-2. [Student 2](https://github.com/student2)
-3. [Student 3](https://github.com/student3)
+1. [Student 1](https://github.com/Rushi128)
+2. [Student 2](https://github.com/siddharthpamnath2021)
+<!-- 3. [Student 3](https://github.com/student3)
 4. [Student 4](https://github.com/student4) -->
 
 ## Features
