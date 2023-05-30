@@ -10,8 +10,8 @@ This project was developed by a group of 4 students. The team members are:
 
 1. [Rushikesh Thorat](https://github.com/Rushi128)
 2. [Siddharth Pamnath](https://github.com/siddharthpamnath2021)
-<!-- 3. [Student 3](https://github.com/student3)
-4. [Student 4](https://github.com/student4) -->
+3. [Aditya Sathe](https://github.com/ADISathe)
+4. [Rajesh Kota](https://github.com/student4)
 
 ## Features
 
